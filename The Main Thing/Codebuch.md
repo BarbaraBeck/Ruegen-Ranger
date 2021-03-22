@@ -65,7 +65,8 @@ Vollständiger Name des Publikationsmediums + Online/Offline (z.B. Grazia Magazi
 Handelt es sich um ein regionales oder überregionales Publikationsmedium?
 
 0 = überregional<br>
-1 = regional
+1 = regional<br>
+3 = nichts davon, weil Ziffer
 
 **type**
 
@@ -79,7 +80,8 @@ Unterscheidung zwischen Ziffer und Publikationsmedium
 Definiert die Verfügbarkeit des Artikels
 
 0 = online<br>
-1 = offline
+1 = offline<br>
+3 = nichts davon, weil Ziffer
 
 
 # Edge-Attribute
